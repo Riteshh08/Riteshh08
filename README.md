@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm an Aspiring Software Engineer by day, automation connoisseur always.
+# Hi there! 👋 I'm an Aspiring Software Engineer by day, automation geek always.
 
 ### MCA Student | Java, SQL & Web Development | Cybersecurity & Software Testing Enthusiast
 
@@ -6,14 +6,13 @@ I am a developer based in Pune, currently pursuing my Master of Computer Applica
 
 ### 🛠️ Tech Stack & Skills
 * **Languages:** Java, JavaScript, SQL, Python
-* **Web Development:** MERN Stack (MongoDB, Express, React, Node.js), Flask, HTML5/CSS3
+* **Web Development:** MERN Stack (MongoDB, Express, React, Node.js), HTML5/CSS3
 * **Security & Quality:** Software Testing, VAPT (Vulnerability Assessment & Penetration Testing), OWASP Top 10
 * **Tools & Concepts:** Real-time Web (Socket.io), REST APIs, Git/GitHub
 
 ### 🚀 Featured Projects
 * **QuickServe:** A real-time restaurant management ecosystem featuring a Kitchen Display System (KDS) and QR-based ordering. Built with the MERN stack and Socket.io for instant synchronization across a 3-tier architecture.
 * **Aura:** A full-stack AI mental wellness companion featuring VADER-based sentiment visualization and mood tracking. Built using Flask, the Google Gemini API, HTML, CSS, and JavaScript.
-* **Windows 95 Portfolio:** A creative, interactive personal portfolio designed to replicate the classic Windows 95 desktop UI, complete with taskbar logic and draggable windows.
 * **SkyWatch:** A fast, responsive weather application fetching current and weekly forecasts via the Visual Crossing API.
 * **Proforma Invoice Generator:** A practical web utility for generating customized PDF invoices with automated GST calculations.
 
