@@ -17,7 +17,7 @@ I am a developer based in Pune, currently pursuing my Master of Computer Applica
 * **Proforma Invoice Generator:** A practical web utility for generating customized PDF invoices with automated GST calculations.
 
 ### 📫 Let's Connect
-* 📍 **Location:** Pune, India (Open to Pune & Remote roles)
+* 📍 **Location:** Pune, India (Open to work & Remote roles)
 * 💼 **Currently Exploring:** Opportunities in Software Testing, Web Development, and Cybersecurity.
 
 *"Focusing on practical skills, clean code, and continuous learning."*
